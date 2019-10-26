@@ -11890,4 +11890,17 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
-
+.alumni_button{
+  padding-top: -600px; 
+  margin-left: 115px; 
+  background: #fff; 
+  color: #212c7a; 
+  border: 1px solid #212c7a;
+  border-radius: 20px;
+  padding: 5px;
+ 
+}
+.alumni_button:hover{
+  color: #ffffff;
+  background: #212c7a;
+}
